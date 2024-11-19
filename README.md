@@ -15,9 +15,8 @@ This is a Python tool for checking domain availability and identifying aged doma
 <li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
 <li>Ko-Fi $: https://ko-fi.com/shincode403</li>
 </ul>
-<blockquote>
+
 ![Jenderal92](https://github.com/user-attachments/assets/0863a38c-f068-4cec-bd7d-8a8728d5df1b)
-</blockquote>
 
 ## How To Run?
 <ul dir="auto">
@@ -25,6 +24,7 @@ This is a Python tool for checking domain availability and identifying aged doma
 <li>Install Python by downloading it from the official Python website <a href="https://www.python.org">https://www.python.org</a>.</li>
 <li><code>python file.py</code></li>
 </ul>
+
 ## Disclaimer !!!
 
 <p>I have written the disclaimer on the cover of Jenderal92. You can check it <a href="https://github.com/Jenderal92">HERE !!!</a></p>
