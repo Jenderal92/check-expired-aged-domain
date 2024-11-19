@@ -22,7 +22,7 @@ This is a Python tool for checking domain availability and identifying aged doma
 
 <li>Create a "list.txt" file (or any ".txt" file).</li>
 <li>Install Python by downloading it from the official Python website <a href="https://www.python.org">https://www.python.org</a>.</li>
-<li><code></code>python file.py</code></li>
+<li><code>python file.py</code></li>
 
 ## Disclaimer !!!
 
