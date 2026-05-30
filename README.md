@@ -11,8 +11,6 @@ This is a Python tool for checking domain availability and identifying aged doma
 ## Buy Coffee :
 <ul dir="auto">
 <li>Bitcoin $: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
-<li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
-<li>Ko-Fi $: https://ko-fi.com/shincode403</li>
 </ul>
 
 ![Jenderal92](https://github.com/user-attachments/assets/0863a38c-f068-4cec-bd7d-8a8728d5df1b)
